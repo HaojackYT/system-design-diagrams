@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
+  <diagram name="Page-1" id="xZRfUROteRB-RmNCnHLs">
+    <mxGraphModel dx="562" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dfHb3By8rxvY6aa5WWFS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="350" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="dfHb3By8rxvY6aa5WWFS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="280" width="300" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dfHb3By8rxvY6aa5WWFS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI Engine Container" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dfHb3By8rxvY6aa5WWFS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sensor Fusion Container" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dfHb3By8rxvY6aa5WWFS-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stream Processing" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dfHb3By8rxvY6aa5WWFS-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Container Orchestration&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(K3s Lightweight)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="50" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dfHb3By8rxvY6aa5WWFS-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Local Database (TimescaleDB)" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dfHb3By8rxvY6aa5WWFS-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Message Queue (MQTT)" vertex="1">
+          <mxGeometry height="60" width="260" x="40" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="dfHb3By8rxvY6aa5WWFS-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Edge Server (Jetson AGX Xavier)" vertex="1">
+          <mxGeometry height="30" width="240" x="50" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
