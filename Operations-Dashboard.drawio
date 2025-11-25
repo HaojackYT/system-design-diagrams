@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Page-1" id="pMzw_apHzHyKgI_50RkB">
-    <mxGraphModel>
+    <mxGraphModel dx="1651" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="520" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="520" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Camera đang&lt;br&gt;hoạt động&lt;br&gt;245" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vi phạm hôm nay&lt;br&gt;1234" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Đã xử lý&lt;br&gt;1100" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Đang chờ xử lý&lt;br&gt;134" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Hệ thống Giám sát Đỗ xe Thông minh&lt;br&gt;Bảng điều khiển trực tiếp&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="270" x="120" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;2. Thống kê theo thời gian thực&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="20" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;1.&amp;nbsp;Chế độ xem bản đồ thành phố&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="20" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[Bản đồ tương tác hiển thị toàn bộ vi phạm]" vertex="1">
+          <mxGeometry height="30" width="240" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;3. Xu hướng&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="20" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[Bản đồ tương tác hiển thị toàn bộ vi phạm]" vertex="1">
+          <mxGeometry height="30" width="240" x="20" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;4. Vi phạm gần đây&amp;nbsp;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="20" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Sfss1m_WQpRWHGxHWT-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[Luồng cập nhật thời gian thực về các vi phạm mới]" vertex="1">
+          <mxGeometry height="30" width="280" x="20" y="370" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
